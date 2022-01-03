@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronMcGloin1506
-- 👀 I’m interested in Full Stack Development using React
-- 🌱 I’m currently learning The complete React Fullstack course ( 2021 edition ) on Udemy 
+- 👀 I’m interested in Front End Development using React
+- 🌱 Just completed The complete React Fullstack course ( 2021 edition ) on Udemy 
 - 📫 How to reach me amcgloin94@gmail.com
 
 <!---
